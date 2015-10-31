@@ -1,3 +1,3 @@
-# Splunk Essentials
-## Second Edition
-### Betsy Page Sigman and Erickson Delgado
+## Splunk Essentials
+#### Betsy Page Sigman and Erickson Delgado
+###### Second Edition
