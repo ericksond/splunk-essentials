@@ -1,6 +1,7 @@
+The code in this repository is used as supplement to the published book. Feel free to report issues or make a pull request.
+
 ## Splunk Essentials
-##### Betsy Page Sigman and Erickson Delgado
-###### Second Edition
+#### Second Edition
 
 ![Splunk Essentials Second Edition] (https://www.packtpub.com/sites/default/files/IM534.jpg)
 
